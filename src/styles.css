@@ -1,0 +1,16 @@
+.UserList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-left: 0;
+}
+
+.UserList li {
+  list-style-type: none;
+  min-width: 300px;
+  width: 30%;
+}
+
+.UserList h2 {
+  font-size: 26px;
+}
